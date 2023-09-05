@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranit Deria</h1>
 <h3 align="center">An independent and self-motivated Undergraduate with demonstrated expertise in web development, a growing proficiency in machine learning, and a knack for creative problem-solving from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgur.com/a/46glS9F">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1PmxlwHYS3myM0A1VC74dFvP8xax4T7yJ/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranitderia&label=Profile%20views&color=0e75b6&style=flat" alt="ranitderia" /> </p>
 
