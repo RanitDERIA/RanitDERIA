@@ -1,3 +1,4 @@
+![logo](https://github.com/RanitDERIA/RanitDERIA/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner_20230906_081232_0000.png)
 <h1 align="center">Hi 👋, I'm Ranit Deria</h1>
 <h3 align="center">An independent and self-motivated Undergraduate with demonstrated expertise in web development, a growing proficiency in machine learning, and a knack for creative problem-solving from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
@@ -16,7 +17,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **worforranit@yahoo.com**
+- 📫 How to reach me **workforranit@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
