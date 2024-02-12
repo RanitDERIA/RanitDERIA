@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OPEN SOURCE Contributions**
 
-- 👨‍💻 My Portfolio Website [https://bit.ly/deriaranit](https://bit.ly/deriaranit)
+- 👨‍💻 My Portfolio Website [https://bit.ly/deriaranit](https://bit.ly/reyranit)
 
 - 💬 Ask me about **Web Development**
 
