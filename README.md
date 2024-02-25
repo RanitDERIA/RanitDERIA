@@ -1,4 +1,4 @@
-[![MasteHead](https://github.com/RanitDERIA/RanitDERIA/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner_20230906_081232_0000.png)](https://bit.ly/deriaranit)
+[![MasteHead](https://github.com/RanitDERIA/RanitDERIA/blob/main/Blue%20Minimalist%20Profile%20LinkedIn%20Banner_20230906_081232_0000.png)](https://bit.ly/reyranit)
 <h1 align="center">Hi 👋, I'm Ranit Deria</h1>
 <h3 align="center">An independent and self-motivated Undergraduate with demonstrated expertise in web development, a growing proficiency in machine learning, and a knack for creative problem-solving from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OPEN SOURCE Contributions**
 
-- 👨‍💻 My Portfolio Website [https://bit.ly/deriaranit](https://bit.ly/reyranit)
+- 👨‍💻 My Portfolio Website [https://bit.ly/reyranit](https://bit.ly/reyranit)
 
 - 💬 Ask me about **Web Development**
 
