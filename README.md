@@ -93,7 +93,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<h3 align="center">Top Contributed Repo</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=RanitDERIA&limit=5&theme=omni&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+Do you want to support me? ⟶ <a href="https://www.paypal.com/paypalme/RanitDeria">Support Me</a><br>
+<b> Show some ❤️ by starring some of the repositories!</b>
+
