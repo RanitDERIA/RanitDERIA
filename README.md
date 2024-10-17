@@ -94,6 +94,6 @@
 </p>
 
 <p align="center">
-Do you want to support me? ⟶ <a href="https://www.paypal.com/paypalme/RanitDeria">Support Me</a><br>
+Do you want to support me? ⟶ <a href="https://www.paypal.com/paypalme/RanitDeria">PayPal</a><br>
 <b> Show some ❤️ by starring some of the repositories!</b>
 
