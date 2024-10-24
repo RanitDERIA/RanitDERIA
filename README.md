@@ -81,13 +81,20 @@
 </div>
   
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanitDERIA&theme=omni&hide_border=false" alt="GitHub Streak Stats" /><br/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanitDERIA&theme=omni&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="display: inline-block; margin-right: 10px; height: 200px;"/>&nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitDERIA&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="display: inline-block; height: 200px;"/>
-</p>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanitDERIA&theme=radical" alt="Profile Summary">
+</td>
+<td>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=RanitDERIA&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=RanitDERIA&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
 
 <h3 align="left">GitHub Trophies</h3>
 <p align="center">
