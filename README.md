@@ -77,9 +77,12 @@
 <h3>GSSoC'24-Extd Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://media.badgr.com/uploads/badges/assertion-ipqGbSJVT3iIR88Z7d9J5A.png?versionId=jkbp3ftWxFa6OfRar5JbX2HrGauKKKiw" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://media.badgr.com/uploads/badges/assertion-KdQrJe0FS5Kh7AIzNxvUyA.png?versionId=FC1M6Spc9eWBcZPmgkkjNhVOsPum9mLp" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   </a>
 </div>
 
