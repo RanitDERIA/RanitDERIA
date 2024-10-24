@@ -74,6 +74,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+<h3>GSSOC(24) Badges: </h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+</div>
+  
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanitDERIA&theme=omni&hide_border=false" alt="GitHub Streak Stats" /><br/>
