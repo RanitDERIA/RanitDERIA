@@ -74,18 +74,15 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <div style="display: flex; align-items: center; gap: 10px; width: 45%;">
-        <h3>GSSOC(24) Badges:</h3>
-        <a href="https://gssoc.girlscript.tech/leaderboard">
-            <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-            <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-        </a>
-    </div>
-    <div style="width: 45%; text-align: right;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranitderia&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </div>
+<h3>GSSoC'24-Extd Badges:</h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://media.badgr.com/uploads/badges/assertion-ipqGbSJVT3iIR88Z7d9J5A.png?versionId=jkbp3ftWxFa6OfRar5JbX2HrGauKKKiw" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  </a>
 </div>
+
   
 <h3 align="left">GitHub Stats:</h3>
 <table width="100%" align="center">
