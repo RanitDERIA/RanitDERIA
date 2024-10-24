@@ -91,7 +91,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RanitDERIA&theme=radical" alt="Profile Summary">
+  
 </td>
 <td>
   <img width="300em" src="https://github-readme-stats.vercel.app/api?username=RanitDERIA&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
