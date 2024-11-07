@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=ranitderia&label=Profile%20Views&color=ff0000&style=flat-square" alt="ranitderia" style="background: linear-gradient(to right, #ff0000, #ffff00); border-radius: 5px;" />
 </p>
 
-- 🔭 I’m currently working on **Ticket Booking Reminder App** and **GSSoC contributions**
+- 🔭 I’m currently working on **DevOps** and **GSSoC contributions**
 
 - 🌱 I’m currently learning **Python, Machine Learning & DSA using C++**
 
