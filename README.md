@@ -87,6 +87,10 @@
   </a>
 </div>
 
+<h3 align="left">Hacktoberfest 2024 Badges:</h3>
+
+[![An image of @ranitderia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranitderia)](https://holopin.io/@ranitderia)
+
   
 <h3 align="left">GitHub Stats:</h3>
 <table width="100%" align="center" style="border-collapse: collapse;">
